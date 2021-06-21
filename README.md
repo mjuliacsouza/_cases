@@ -8,4 +8,5 @@ Cases de DATA SCIENCE
 <li> Análise Exploratória de Dados </li>
 <li> Featuring Engineering </li>
 <li> Categorização </li>
+<li> Series Temporais </li>
 </ol>
