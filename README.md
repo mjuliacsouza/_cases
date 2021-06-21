@@ -7,3 +7,5 @@ Cases de DATA SCIENCE
 <li> Estatística </li>
 <li> Análise Exploratória de Dados </li>
 <li> Featuring Engineering </li>
+<li> Categorização </li>
+</ol>
